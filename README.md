@@ -1,8 +1,8 @@
 # My First Coding Assignment
-![Gators Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSqqU1yqWEcN9cZEn_zhv7Bd7RDF_3_yHjEw&s)
+![Gators Logo](uf-logo.png)
 
 ## About Me
-blah blah blah
+My name is Efren Vsqeuz.
 
 ## Career Goals
 My goals are.......
