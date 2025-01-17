@@ -2,7 +2,7 @@
 ![Gators Logo](uf-logo.png)
 
 ## About Me
-My name is Efren Vsqeuz.
+My name is Efren Vasquez.
 
 ## Career Goals
 My goals are.......
